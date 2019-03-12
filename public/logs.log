@@ -1,0 +1,1 @@
+select * from `transport_info`select `name`, `number`, `date`, `way` from `transport_info` where `date` > ?
